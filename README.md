@@ -1,4 +1,4 @@
-```markdown
+
 # 📁 Spaghetti File Manager (Terminal-Based)
 
 A minimalist **terminal file manager** written in C++
